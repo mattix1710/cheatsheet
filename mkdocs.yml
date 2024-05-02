@@ -73,3 +73,5 @@ nav:
   - Home: "index.md"
   - Linux101:
     - cronjobs: "Linux101/cronjobs.md"
+  - Cybersec 😸💻:
+    - Online frameworks: "Cybersec/online-frameworks.md"
